@@ -48,6 +48,6 @@ References to any papers, techniques, repositories you used:
 - Papers:
 --StyleGAN Paper: http://stylegan.xyz/paper
 - Repositories:
--- tf-openpose variation https://github.com/ildoonet/tf-pose-estimation
--- StyleGAN https://github.com/NVlabs/stylegan
+  - tf-openpose variation https://github.com/ildoonet/tf-pose-estimation
+  - StyleGAN https://github.com/NVlabs/stylegan
 - Blog posts
