@@ -13,17 +13,13 @@ Regarding the creative goals, we chose to generate video because we thought movi
 
 This project can be modified to navigate a different latent space of other images, objects, scenes, sketches, etc.
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
-
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://docs.google.com/document/d/133H59WZBmH6MlAgFSskFLMQITeIC5d9b2iuzsOfa4E8/edit?usp=sharing).
+See 188_FINAL_REPORT.pdf
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+The models tf-openpose and StyleGAN were the default models provided by the respective researchers. We just made modifications to the way we handled the models and the ways to handle output and input.
 
 ## Code
 
